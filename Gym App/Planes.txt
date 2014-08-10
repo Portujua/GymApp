@@ -1,0 +1,115 @@
+﻿-- Programa en general
+[ ] Solo permitir una entrada por dia
+[ ] Grafico de Avance de peso
+[ ] Calendario (reflejando ganancias, fotos añadidas, dias entrenados, dias no entrenados, etc)
+[ ] Informacion semenal
+[ ] Informacion mensual
+[x] Sistema de cuentas
+[ ] Sistema de nivel general, basado en las ganancias obtenidas desde el comienzo
+[ ] Sistema de nivel muscular, basado en el peso que levanta
+[ ] Varios idiomas
+
+
+-- Analisis individual diario
+[ ] Nivel de motivacion
+[ ] Tiempo total
+[ ] Ejercicios hechos (detallados)
+[ ] Repeticiones por cada ejercicio
+
+
+-- Alarmas
+[ ] Musculos cansados (evitar sobreentrenamiento)
+[ ] Niveles de agua corporal bajos
+[ ] Mes sin ganancia muscular
+[ ] Ganancias semenales
+[ ] Ganancias mensuales
+[ ] Aumento de nivel muscular
+[ ] Aumento de nivel general
+
+
+-- Imagenes
+[ ] Historial de Biceps
+[ ] Historial de Triceps
+[ ] Historial de Espalda
+[ ] Historial de Pecho
+[ ] Historial de Hombros
+[ ] Historial de Abdominales
+[ ] Historial de Piernas
+
+
+====== Planes a futuro ======
+*- Creador de rutinas basado en el nivel muscular
+*- Alarmas cuando se "desbloqueen" rutinas nuvas
+*- Base de datos online
+*- Sistema de Red social
+*- Sistema de rango (por niveles)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<user>
+    <accountName>ed</accountName>
+    <password>ed</password>
+    <nombre>Eduardo</nombre>
+    <apellido>Lorenzo</apellido>
+    <imgUrl>images//blankPhoto.jpg</imgUrl>
+    <created>19-07-2013 05:43:37 a.m.</created>
+    <biceps>
+      <rutina>
+        <motivacion>Buena</motivacion>
+        <tiempoTotal>30</tiempoTotal>
+        <setsTotales>15</setsTotales>
+        <reps>10</reps>
+      </rutina>
+    </biceps>
+    <triceps>
+      <rutina>
+        <motivacion>Perfecta</motivacion>
+        <tiempoTotal>30</tiempoTotal>
+        <setsTotales>15</setsTotales>
+        <reps>8</reps>
+      </rutina>
+    </triceps>
+    <pecho>
+      <rutina>
+        <motivacion>Normal</motivacion>
+        <tiempoTotal>50</tiempoTotal>
+        <setsTotales>21</setsTotales>
+        <reps>8</reps>
+      </rutina>
+    </pecho>
+    <espalda>
+      <rutina>
+        <motivacion>Ausente</motivacion>
+        <tiempoTotal>40</tiempoTotal>
+        <setsTotales>15</setsTotales>
+        <reps>8</reps>
+      </rutina>
+    </espalda>
+    <hombros>
+      <rutina>
+        <motivacion>Buena</motivacion>
+        <tiempoTotal>40</tiempoTotal>
+        <setsTotales>15</setsTotales>
+        <reps>8</reps>
+      </rutina>
+    </hombros>
+    <abs>
+      <rutina>
+        <motivacion>Ausente</motivacion>
+        <tiempoTotal>10</tiempoTotal>
+        <setsTotales>12</setsTotales>
+        <reps>30</reps>
+      </rutina>
+    </abs>
+  </user>

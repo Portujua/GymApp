@@ -1,0 +1,9 @@
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\obj\x86\Release\Gym_App.form_Login.resources
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\obj\x86\Release\Gym App.csproj.GenerateResource.Cache
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\obj\x86\Release\Gym_App.gui.createAccount.resources
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\obj\x86\Release\Gym_App.gui.mainWindow.resources
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\obj\x86\Release\Private_Gym.Properties.Resources.resources
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\obj\x86\Release\Private Gym.exe
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\obj\x86\Release\Private Gym.pdb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\Private Gym.exe
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\Private Gym.pdb

@@ -1,0 +1,19 @@
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Gym App\bin\Debug\Gym App.exe
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Gym App\bin\Debug\Gym App.pdb
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Gym App\obj\x86\Debug\Gym_App.Properties.Resources.resources
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Gym App\obj\x86\Debug\Gym App.csproj.GenerateResource.Cache
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Gym App\obj\x86\Debug\Gym App.exe
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Gym App\obj\x86\Debug\Gym App.pdb
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Gym App\obj\x86\Debug\Gym_App.form_Login.resources
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\obj\x86\Debug\Gym_App.form_Login.resources
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\obj\x86\Debug\Gym App.csproj.GenerateResource.Cache
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\obj\x86\Debug\Gym_App.gui.createAccount.resources
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\obj\x86\Debug\Gym_App.gui.mainWindow.resources
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\bin\Debug\Private Gym.exe
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\bin\Debug\Private Gym.pdb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\obj\x86\Debug\Private_Gym.Properties.Resources.resources
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\obj\x86\Debug\Private Gym.exe
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\obj\x86\Debug\Private Gym.pdb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Gym App\Gym App\obj\x86\Debug\Private_Gym.gui.aboutMe.resources
+D:\Windows 8.1\Eduardo\Documents\Visual Studio 2010\Projects\Gym App\Gym App\obj\x86\Debug\Private Gym.exe
+D:\Windows 8.1\Eduardo\Documents\Visual Studio 2010\Projects\Gym App\Gym App\obj\x86\Debug\Private Gym.pdb
